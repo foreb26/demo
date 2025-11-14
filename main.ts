@@ -1,1 +1,1 @@
-
+game.splash("Yo wsg")
